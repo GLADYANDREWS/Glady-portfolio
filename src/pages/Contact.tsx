@@ -68,7 +68,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      link: "https://linkedin.com/in/gladyandrews",
+      link: "https://www.linkedin.com/in/glady-andrews-1b5802267/",
     },
   ];
 

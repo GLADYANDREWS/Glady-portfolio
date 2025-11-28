@@ -41,7 +41,7 @@ const Home = () => {
             <Github className="h-6 w-6" />
           </a>
           <a
-            href="https://linkedin.com/in/gladyandrews"
+            href="https://www.linkedin.com/in/glady-andrews-1b5802267/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-accent transition-colors"
